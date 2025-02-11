@@ -13,7 +13,7 @@ export function ContinuousVideo() {
 
   return (
     <section className="w-full bg-gray-100">
-      <div className="relative w-full overflow-hidden">
+      <div className="relative w-[80%] mx-auto overflow-hidden">
         <video
           ref={videoRef}
           className="w-full h-auto" // Full width, auto height based on aspect ratio

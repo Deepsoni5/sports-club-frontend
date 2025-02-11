@@ -46,7 +46,7 @@ export default function Home() {
         <Navbar />
         <main>
           <HeroSearch />
-          {/* <BookingInterface/> */}
+          {/* <BookingInterface /> */}
           <QuickAccess />
           <DiscoverGrounds />
           <ContinuousVideo />
